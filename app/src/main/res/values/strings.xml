@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MapboxExample</string>
+
+    <string name="download_belarus">Download Belarus</string>
+    <string name="remove_belarus">Remove Belarus</string>
+    <string name="download_minsk_partly">Download Minsk partly</string>
+    <string name="start_map">Start map</string>
+    <string name="map">Map</string>
+
+    <string name="belarus_downloaded">Belarus has been downloaded</string>
+    <string name="belarus_removed">Belarus has been removed</string>
+    <string name="minsk_downloaded">Minsk has been downloaded</string>
+
+    <string name="error_common_mes">Something went wrong. Sorry</string>
+</resources>
